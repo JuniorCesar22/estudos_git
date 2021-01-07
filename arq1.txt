@@ -1,2 +1,8 @@
-Este é o arquivo interno
+﻿Este é o arquivo interno
 Arquivo de teste 02
+
+
+teste de 07/01/2021 -- 01
+teste de 07/01/2021 -- 02
+teste de 07/01/2021 -- 03
+teste de 07/01/2021 -- 04
